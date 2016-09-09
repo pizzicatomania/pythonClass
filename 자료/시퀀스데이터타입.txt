@@ -1,0 +1,23 @@
+문자의 집합, 데이터의집합
+( 시퀀스 데이터타입 )
+
+- 수정가능(mutable)
+list, dict, set, bytearray
+- 수정불가능(immutable)
+tuple, str, bytes,fozenset
+
+- 순서있는데이터타입
+(인덱스(0,1,2...)(-1,-2,-3), 
+슬라이싱 [시작인덱스:끝인덱스:증가치]
+list, tuple, str, bytes,bytearray, OrderedDict
+
+- 순서없는 데이터타입
+set, dict,fozenset
+
+
+프로그램 < --->  장비(호스트(컴퓨터)
+str --> bytes (send, write)
+bytes <----
+(str변환)
+
+

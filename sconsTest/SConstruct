@@ -1,0 +1,2 @@
+import glob
+Program('my.exe',glob.glob('*.c'))

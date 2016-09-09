@@ -1,0 +1,6 @@
+unix 계열
+export PYTHONPATH=$PYTHONPATH:/home/egoing/python/lib
+
+윈도우계열
+set PYTHONPATH=%PYTHONPATH%;C:\Python27\userlib
+setx PYTHONPATH %PYTHONPATH%;C:\Python27\userlib
