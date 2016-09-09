@@ -1,0 +1,2 @@
+def myxmlfn():
+    print("myxlmfn")

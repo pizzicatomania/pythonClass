@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<channel>
+		<song sname="sname1">
+			<title>노래1</title>
+			<singer>singer1</singer>
+		</song>
+		<song sname="sname2">
+			<title>노래2</title>
+			<singer>singer2</singer>
+		</song>		
+		<song sname="sname3">
+			<title>노래3</title>
+			<singer>singer3</singer>
+		</song>
+	</channel>
+</rss>

@@ -1,0 +1,15 @@
+﻿빌드 시작: 9/6/2016 12:23:25 PM
+     1>2 노드의 "E:\pythonTest\extest\extest\extest.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "E:\pythonTest\extest\Debug\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\extest.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D EXTEST_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\자료\extest.c"
+         extest.c
+     1>e:\pythontest\자료\extest.c(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'python.h': No such file or directory
+     1>"E:\pythonTest\extest\extest\extest.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.74

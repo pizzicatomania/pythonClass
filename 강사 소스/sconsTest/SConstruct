@@ -1,0 +1,5 @@
+import glob
+Program('myexe', glob.glob('*.c' ) )
+#s1 ='hello.c fn.c'
+#Program('myexe', s1.split() )
+#Program('myexe',['hello.c','fn.c'] )
